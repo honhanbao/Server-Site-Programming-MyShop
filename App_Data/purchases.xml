@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<purchases>
+  <Purchase id="1" fullName="Anna Acacia" emailAddress="anna@acacia.com" productName="Lilly Pilly" unitPrice="100" quantity="1" />
+  <Purchase id="2" fullName="Byron Beech" emailAddress="byron@beech.com" productName="Snow Gum" unitPrice="17" quantity="2" />
+  <Purchase id="3" fullName="Cassie Casuarina" emailAddress="cassie@casuarina.com" productName="Golden Wattle" unitPrice="45" quantity="3" />
+  <Purchase id="4" fullName="Donny Dahlia" emailAddress="donny@dahlia.com" productName="Rusty Gum" unitPrice="8" quantity="44" />
+  <Purchase id="5" fullName="Nhan Ho" emailAddress="bao.ho@students.latrobe.edu.au" productName="Rusty Gum" unitPrice="8" quantity="50" />
+</purchases>

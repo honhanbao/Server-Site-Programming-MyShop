@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PurchaseCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <purchases>
+    <Purchase>
+      <id>12</id>
+      <fullName>Nhan Ho</fullName>
+      <emailAddress>20218942@students.latrobe.edu.au</emailAddress>
+      <productname>pen</productname>
+      <unitprice>12</unitprice>
+      <quantity>30</quantity>
+    </Purchase>
+    <Purchase>
+      <id>12</id>
+      <fullName>Nhan Ho</fullName>
+      <emailAddress>20218942@students.latrobe.edu.au</emailAddress>
+      <productname>pen</productname>
+      <unitprice>12</unitprice>
+      <quantity>30</quantity>
+    </Purchase>
+    <Purchase>
+      <id>5</id>
+      <fullName>Bao Ho</fullName>
+      <emailAddress>nhan.ho@latrobe.edu.au</emailAddress>
+      <productname>pen</productname>
+      <unitprice>12</unitprice>
+      <quantity>1</quantity>
+    </Purchase>
+    <Purchase>
+      <id>5</id>
+      <fullName>Bao Ho</fullName>
+      <emailAddress>nhan.ho@latrobe.edu.au</emailAddress>
+      <productname>pen</productname>
+      <unitprice>12</unitprice>
+      <quantity>90</quantity>
+    </Purchase>
+  </purchases>
+</PurchaseCollection>

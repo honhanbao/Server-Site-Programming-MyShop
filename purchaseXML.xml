@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PurchaseCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <purchases>
+    <Purchase>
+      <ID>1</ID>
+      <Full_Name>Anna Acacia</Full_Name>
+      <Email_Address>anna@acacia.com</Email_Address>
+      <Product_Name>Lilly Pilly</Product_Name>
+      <Unit_Price>100</Unit_Price>
+      <Quantity>1</Quantity>
+    </Purchase>
+    <Purchase>
+      <ID>2</ID>
+      <Full_Name>Byron Beech</Full_Name>
+      <Email_Address>byron@beech.com</Email_Address>
+      <Product_Name>Snow Gum</Product_Name>
+      <Unit_Price>17</Unit_Price>
+      <Quantity>2</Quantity>
+    </Purchase>
+    <Purchase>
+      <ID>3</ID>
+      <Full_Name>Cassie Casuarina</Full_Name>
+      <Email_Address>cassie@casuarina.com</Email_Address>
+      <Product_Name>Golden Wattle</Product_Name>
+      <Unit_Price>45</Unit_Price>
+      <Quantity>3</Quantity>
+    </Purchase>
+    <Purchase>
+      <ID>4</ID>
+      <Full_Name>Donny Dahlia</Full_Name>
+      <Email_Address>donny@dahlia.com</Email_Address>
+      <Product_Name>Rusty Gum</Product_Name>
+      <Unit_Price>8</Unit_Price>
+      <Quantity>44</Quantity>
+    </Purchase>
+    <Purchase>
+      <ID>5</ID>
+      <Full_Name>Ethan Edmond</Full_Name>
+      <Email_Address>ethan@edmond.com</Email_Address>
+      <Product_Name>Grevillia Robusta</Product_Name>
+      <Unit_Price>22</Unit_Price>
+      <Quantity>67</Quantity>
+    </Purchase>
+    <Purchase>
+      <ID>6</ID>
+      <Full_Name>Freddy Flower</Full_Name>
+      <Email_Address>freddy@flower.com</Email_Address>
+      <Product_Name>Correa Federation</Product_Name>
+      <Unit_Price>26</Unit_Price>
+      <Quantity>6</Quantity>
+    </Purchase>
+    <Purchase>
+      <ID>7</ID>
+      <Full_Name>Gordon Gates</Full_Name>
+      <Email_Address>gordon@gates.com</Email_Address>
+      <Product_Name>Poa Labillardierei</Product_Name>
+      <Unit_Price>11</Unit_Price>
+      <Quantity>11</Quantity>
+    </Purchase>
+    <Purchase>
+      <ID>8</ID>
+      <Full_Name>Cherry Matthews</Full_Name>
+      <Email_Address>cherryM@gmail.com</Email_Address>
+      <Product_Name>Grevillea</Product_Name>
+      <Unit_Price>15.00</Unit_Price>
+      <Quantity>6</Quantity>
+    </Purchase>
+    <Purchase>
+      <ID>9</ID>
+      <Full_Name>William Wallace</Full_Name>
+      <Email_Address>william@wally.com</Email_Address>
+      <Product_Name>Boronia serrulata</Product_Name>
+      <Unit_Price>20.00</Unit_Price>
+      <Quantity>3</Quantity>
+    </Purchase>
+    <Purchase>
+      <ID>10</ID>
+      <Full_Name>Hello World</Full_Name>
+      <Email_Address>hello@world.com</Email_Address>
+      <Product_Name>Snow Gum</Product_Name>
+      <Unit_Price>17.00</Unit_Price>
+      <Quantity>2</Quantity>
+    </Purchase>
+    <Purchase>
+      <ID>11</ID>
+      <Full_Name>Carson Manson</Full_Name>
+      <Email_Address>carson@manson.com</Email_Address>
+      <Product_Name>Lilly Pilly</Product_Name>
+      <Unit_Price>25.00</Unit_Price>
+      <Quantity>2</Quantity>
+    </Purchase>
+    <Purchase>
+      <ID>12</ID>
+      <Full_Name>Potty Kettle</Full_Name>
+      <Email_Address>potty@kettle.com</Email_Address>
+      <Product_Name>Eucalyptus pauciflora</Product_Name>
+      <Unit_Price>12.00</Unit_Price>
+      <Quantity>3</Quantity>
+    </Purchase>
+    <Purchase>
+      <ID>13</ID>
+      <Full_Name>Brianna Maker</Full_Name>
+      <Email_Address>brianna@maker.com</Email_Address>
+      <Product_Name>Grevillea alpina x rosmarinifolia</Product_Name>
+      <Unit_Price>20.00</Unit_Price>
+      <Quantity>6</Quantity>
+    </Purchase>
+    <Purchase>
+      <ID>14</ID>
+      <Full_Name>Terry belly</Full_Name>
+      <Email_Address>terry@belly.com</Email_Address>
+      <Product_Name>Rusty Gum</Product_Name>
+      <Unit_Price>12.00</Unit_Price>
+      <Quantity>2</Quantity>
+    </Purchase>
+    <Purchase>
+      <ID>15</ID>
+      <Full_Name>Bill Ted</Full_Name>
+      <Email_Address>bill@ted.com</Email_Address>
+      <Product_Name>Golden Wattle</Product_Name>
+      <Unit_Price>45.00</Unit_Price>
+      <Quantity>2</Quantity>
+    </Purchase>
+    <Purchase>
+      <ID>16</ID>
+      <Full_Name>Gerald Brown</Full_Name>
+      <Email_Address>gerald@brown.com</Email_Address>
+      <Product_Name>Boronia serrulata</Product_Name>
+      <Unit_Price>20.00</Unit_Price>
+      <Quantity>6</Quantity>
+    </Purchase>
+  </purchases>
+</PurchaseCollection>
